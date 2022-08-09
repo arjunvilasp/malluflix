@@ -1,0 +1,15 @@
+.movie-container{
+  padding:0 5px;
+}
+
+.movie-cards{
+  display: flex;
+  align-items: center;
+  width: 100%;
+  overflow-x: scroll;
+  overflow-y: hidden;
+}
+.movie-cards::-webkit-scrollbar{
+  display: none;
+}
+

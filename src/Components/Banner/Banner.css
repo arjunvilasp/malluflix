@@ -1,0 +1,101 @@
+.banner-container{
+  height: 80vh;
+  width: 100%;
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.banner-movie-details{
+  width: 50%;
+  font-size: 1.5rem;
+}
+
+.banner-movie-details{
+  padding: 0 10px;
+}
+
+.banner-movie-details h1{
+  font-size: 2.5rem;
+}
+
+.banner-movie-details p{
+  font-size: 1.2rem;
+}
+
+.banner-movie-genres{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  position: absolute;
+  bottom: 65px;
+  left: 0;
+}
+
+.banner-movie-genres p{
+  padding: 0 5px;
+}
+
+.fade{
+  height: 5rem;
+  width: 100%;
+  background-image: linear-gradient(180deg,transparent,rgb(0,0,0,0.71),rgb(0,0,0,1));
+  position: absolute;
+  bottom: 0;
+}
+
+
+.btn-container{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  position: absolute;
+  bottom: 70px;
+  left: 0;
+}
+
+.btn-container .btn{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 3rem;
+  width: 3rem;;
+  font-size: 1.1rem;
+  font-weight: 600;
+  border: none;
+  border-radius: 50px;
+}
+
+.Link{
+  text-decoration: none;
+  color: #000;
+}
+
+
+
+@media screen and (max-width:750px){
+
+.banner-container{
+  height: 60vh;
+}
+
+.banner-movie-details{
+  padding: 0 10px;
+  width:80%;
+}
+
+.banner-movie-details h1{
+  font-size: 2.2rem;
+}
+
+.banner-movie-details p{
+  font-size: .9rem;
+}
+
+
+
+}
+

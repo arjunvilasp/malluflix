@@ -1,0 +1,8 @@
+.movie-card{
+  margin: 5px 8px;
+}
+.movie-card img{
+  height: 10rem;
+  width: 8rem;
+  border-radius: 10px;
+}

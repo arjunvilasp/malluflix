@@ -1,0 +1,27 @@
+.nav-container{
+  padding: 5px;
+}
+
+.top-nav{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.top-nav .Link{
+  color:#fff;
+}
+
+.top-nav .left-icon h2{
+ font-size: 2rem;
+}
+
+.top-nav .right-icon{
+  display: flex;
+  align-items: center;
+}
+
+.right-icon i{
+  font-size: 1.5rem;
+  padding: 0 10px;
+}
