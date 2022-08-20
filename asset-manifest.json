@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/malluflix/static/css/main.658b7a4c.css",
-    "main.js": "/malluflix/static/js/main.f726ad1d.js",
+    "main.js": "/malluflix/static/js/main.392b1125.js",
     "static/js/787.4a7583ae.chunk.js": "/malluflix/static/js/787.4a7583ae.chunk.js",
     "index.html": "/malluflix/index.html",
     "main.658b7a4c.css.map": "/malluflix/static/css/main.658b7a4c.css.map",
-    "main.f726ad1d.js.map": "/malluflix/static/js/main.f726ad1d.js.map",
+    "main.392b1125.js.map": "/malluflix/static/js/main.392b1125.js.map",
     "787.4a7583ae.chunk.js.map": "/malluflix/static/js/787.4a7583ae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.658b7a4c.css",
-    "static/js/main.f726ad1d.js"
+    "static/js/main.392b1125.js"
   ]
 }
